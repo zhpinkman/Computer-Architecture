@@ -1,0 +1,3 @@
+[submodule "simple-neuron-verilog"]
+	path = simple-neuron-verilog
+	url = git@github.com:zhpinkman/simple-neuron-verilog.git
