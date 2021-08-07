@@ -1,3 +1,6 @@
 [submodule "simple-neuron-verilog"]
 	path = simple-neuron-verilog
 	url = git@github.com:zhpinkman/simple-neuron-verilog.git
+[submodule "mips-pipeline"]
+	path = mips-pipeline
+	url = git@github.com:zhpinkman/mips-pipeline.git
