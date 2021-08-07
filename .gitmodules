@@ -4,3 +4,6 @@
 [submodule "mips-pipeline"]
 	path = mips-pipeline
 	url = git@github.com:zhpinkman/mips-pipeline.git
+[submodule "ARM968E-S"]
+	path = ARM968E-S
+	url = git@github.com:mohsenfayyaz/ARM968E-S.git
